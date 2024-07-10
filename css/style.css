@@ -100,10 +100,10 @@ p{
 }
 
 #art1{
-    border: 1px;
-    /* width: 400px; */
+    border: 1px solid;
+    width: 350px;
     height: 220px;
-    background-color: aqua;
+    background-color: var(--white);
     margin-bottom: 15px;
     text-align: center;
     box-shadow: 2px #000;
